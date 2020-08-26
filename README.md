@@ -1,5 +1,5 @@
 # Minesweeper-Trainer
-This enables you to manipulate some thing in the Windows 7 Minesweeper.  
+This enables you to manipulate some things in the Windows 7 Minesweeper.  
 It will only work for the Windows 7 Version of Minesweeper, you can get it from here: https://winaero.com/blog/get-windows-7-games-for-windows-10/  
 Download the 150MB Zip File and install its content.  NOTE: This may occasionally crash.
 
